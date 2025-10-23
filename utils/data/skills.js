@@ -1,0 +1,21 @@
+export const skillsData = [
+  'Kali Linux',
+  'Nmap',
+  'Metasploit',
+  'Burp Suite',
+  'Wireshark',
+  'AWS',
+  'Docker',
+  'Git',
+  'Python',
+  'React',
+  'Next JS',
+  'Tailwind',
+  'MongoDB',
+  'MySQL',
+  'Linux',
+  'JavaScript',
+  'Typescript',
+  'Cloud Security',
+  'Splunk'
+];
