@@ -73,7 +73,7 @@ function HeroSection() {
               className="flex items-center gap-1 hover:gap-3 rounded-full bg-gradient-to-r from-pink-500 to-violet-600 px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold"
               role="button"
               target="_blank"
-              href="https://drive.google.com/file/d/1tRy6wO_ky3025Z8rKF0W0mYWUjMNhRj8/view?usp=sharing"
+              href="https://www.canva.com/design/DAGzbT6lHs4/hRoelNDPIMlSys6lpSJ7jQ/view?utm_content=DAGzbT6lHs4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7468745fb8#1"
             >
               <span>Get Resume</span>
               <MdDownload size={16} />
