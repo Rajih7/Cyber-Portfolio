@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
-import { BsGithub, BsLinkedin } from "react-icons/bs";
-import { FaInstagram, FaWhatsapp } from "react-icons/fa";
-import { MdDownload } from "react-icons/md";
+import { BsGithub, BsLinkedin, BsThreads } from "react-icons/bs";
+import { FaWhatsapp } from "react-icons/fa";
+import { MdOutlineRemoveRedEye } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 
 function HeroSection() {
@@ -50,11 +50,11 @@ function HeroSection() {
             </Link>
 
             <Link
-              href="https://www.instagram.com/r_aj_ih?igsh=MTl1MTJic3JuMXc0aw=="
+              href="https://www.threads.com/@r_aj_ih"
               target="_blank"
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
-              <FaInstagram size={30} />
+              <BsThreads size={30} />
             </Link>
           </div>
 
@@ -73,10 +73,10 @@ function HeroSection() {
               className="flex items-center gap-1 hover:gap-3 rounded-full bg-gradient-to-r from-pink-500 to-violet-600 px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold"
               role="button"
               target="_blank"
-              href="https://www.canva.com/design/DAGzbT6lHs4/hRoelNDPIMlSys6lpSJ7jQ/view?utm_content=DAGzbT6lHs4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7468745fb8#1"
+              href="https://www.canva.com/design/DAGzbT6lHs4/hRoelNDPIMlSys6lpSJ7jQ/view?utm_content=DAGzbT6lHs4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7468745fb8#3"
             >
               <span>Get Resume</span>
-              <MdDownload size={16} />
+              <MdOutlineRemoveRedEye size={16} />
             </Link>
           </div>
         </div>

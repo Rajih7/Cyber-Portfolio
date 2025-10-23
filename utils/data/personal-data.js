@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/rajih-n/',
   resume: "https://drive.google.com/file/d/1j80vDNInDaEWZVcDAvS_a56LNvJQUMl9/view?usp=sharing",
   whatsapp: "https://api.whatsapp.com/send?phone=918921013073",
-  instagram: "https://www.instagram.com/r_aj_ih?igsh=MTl1MTJic3JuMXc0aw=="
+  threads: "https://www.threads.com/@r_aj_ih"
 };
