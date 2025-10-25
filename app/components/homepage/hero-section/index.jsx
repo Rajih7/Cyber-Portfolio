@@ -75,7 +75,7 @@ function HeroSection() {
               target="_blank"
               href="https://www.canva.com/design/DAGzbT6lHs4/hRoelNDPIMlSys6lpSJ7jQ/view?utm_content=DAGzbT6lHs4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7468745fb8#3"
             >
-              <span>Get Resume</span>
+              <span>View Resume</span>
               <MdOutlineRemoveRedEye size={16} />
             </Link>
           </div>
